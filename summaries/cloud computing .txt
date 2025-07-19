@@ -1,0 +1,34 @@
+BCS601 Cloud Computing 
+ 
+Module-3 
+ 
+Mr.Ravi Kumar S G, Assitant Professor CSE RNSIT                                                   pg. 1 
+Module-3 
+Cloud Platform Architecture over Virtualized Datacenters: Cloud Computing andService Models, 
+Data Center Design and Interconnection Networks, ArchitecturalDesign of Compute and Storage 
+Clouds, Public Cloud Platforms: GAE, AWS andAzure, Inter-Cloud Resource Management. 
+Textbook 1: Chapter 4: 4.1 to 4.5 
+4.1 Cloud Computing and Service Models 
+4.1.1 Public, Private, and Hybrid Clouds 
+ 
+Public Cloud: 
+o Hosted and maintained by third-party cloud service providers. 
+o Resources such as computing power, storage, and networking are shared 
+among multiple customers. 
+o Offers cost-effectiveness, scalability, and flexibility. 
+o Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud 
+Platform (GCP). 
+o Disadvantages: Limited control over infrastructure, potential security concerns 
+due to shared environments. 
+ 
+Private Cloud: 
+o Dedicated cloud infrastructure for a single organization, either hosted on-
+premises or by a third-party provider. 
+o Provides enhanced security, compliance, and performance optimization. 
+o Ideal for industries with strict regulatory requirements such as healthcare and 
+finance. 
+o Higher operational costs due to maintenance and hardware requirements. 
+o Examples: VMware vSphere, OpenStack-based private clouds. 
+ 
+Hybrid Cloud: 
+o A combination of public and private cloud infrastructures ...
