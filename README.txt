@@ -30,10 +30,12 @@ streamlit run main.py
 
 ## 👥 Team
 
-- @KrithikaDevadiga444
-- @prajnashreekulal
-- @
-- @
+- @Krithika Devadiga
+- @Prajnashree kulal
+- @Khushi Amin
+- @Moulya U Shetty
 
+## YOUTUBE LINK :
+https://youtu.be/81vUO0-vcHM?si=6EAa2eOfN8Z5bhJx
 
 
