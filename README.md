@@ -20,13 +20,14 @@ ProTask is an **AI-powered study tool** built with Streamlit to help students st
 
 1. Clone this repo:
 git clone https://github.com/prajnashreekulal/protask-AI-study-assistant.git
+
 cd protask-ai-study-assistant
 
 
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
 streamlit run main.py
 
 ## Team
